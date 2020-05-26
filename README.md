@@ -34,5 +34,3 @@ If the folder is named oct4,the date of dataset is october 4,2019 and previous t
 python main.py oct4 04-10-2019 01-10-2019
 
 For the above code, the progress output will generated in data/external as "oct4.json".The report will be genearted in reports as "oct4.txt".
-
-The progress output will be generated in the external folder with the name of the folder in the external folder. A report with the same name will be generated in the reports folder 
